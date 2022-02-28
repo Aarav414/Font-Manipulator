@@ -13,6 +13,8 @@ function modelLoaded(){
 
 function draw(){
     background("#FFFF00");
+    textSize(10);
+    text(Aarav,50,400)
 }
 
 function gotPoses(results){
